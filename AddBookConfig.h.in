@@ -1,0 +1,3 @@
+// the configured options and settings for Tutorial
+#define AddBook_VERSION_MAJOR @AddBook_VERSION_MAJOR@
+#define AddBook_VERSION_MINOR @AddBook_VERSION_MINOR@

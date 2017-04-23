@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/justin/AddressBook/AddBook.hpp
+Contact.hpp
+/home/justin/AddressBook/Contact.hpp
+
+/home/justin/AddressBook/Contact.hpp
+
+/home/justin/AddressBook/addbook_mainprog.cpp
+iostream
+-
+vector
+-
+string
+-
+build/AddBookConfig.h
+/home/justin/AddressBook/build/AddBookConfig.h
+AddBook.hpp
+/home/justin/AddressBook/AddBook.hpp
+typeinfo
+-
+
+/home/justin/AddressBook/build/AddBookConfig.h
+

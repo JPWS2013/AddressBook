@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/AddBook.dir/addbook_mainprog.cpp.o  -o ../AddBook -rdynamic 
